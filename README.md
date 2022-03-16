@@ -1,4 +1,5 @@
-### Hi there! I'm Adney 👋
+### Hi there! I'm Adney 👋🏻
+#### I study computer engineering at insper university 🎓
 <div align="center">
   <a href="https://github.com/Adneycm">
   <hr>
