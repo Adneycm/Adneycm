@@ -5,7 +5,7 @@
   <hr>
   <h3 align="center">💻 Here are some of my stats at GitHub</h3> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adneycm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adneycm&layout=compact&langs_count=5&theme=gotham "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adneycm&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=gotham "/>
 </div>
   
 <br>
