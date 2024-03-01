@@ -4,21 +4,36 @@
   <a href="https://github.com/Adneycm">
   <hr>
   <h3 align="center">💻 Here are some of my stats at GitHub</h3> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adneycm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adneycm&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=gotham "/>
+    
+  <div align="center" style="display:flex;flex-direction:column">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adneycm&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adneycm&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adneycm&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adneycm&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adneycm&theme=dracula&utcOffset=8)
+  </div>
+  
 </div>
   
 <br>
 <hr>
 <h3 align="center">📚 Technologies I've learned so far</h3> 
 
+
+
 <div style="max-width:68rem;" align="center">
- 
+  
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23007396.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite%20-%2314354C.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%2314354C.svg?&style=for-the-badge&logo=pandas&logoColor=white)
